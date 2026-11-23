@@ -1,5 +1,5 @@
 {
-  "version": 310,
+  "version": 311,
   "last_updated": "2026-11-23",
   "sources": [
     "GTA VI Official Launch Walkthroughs (Chapters 1-5: Jason Duval & Lucia Caminos)",
@@ -24,7 +24,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "22:00 - 03:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceBeach",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Vice_City_01.jpg/revision/latest?cb=20261106094049"
     },
     {
       "id": "loc_02",
@@ -42,7 +43,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_03",
@@ -60,7 +62,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_04",
@@ -78,7 +81,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_05",
@@ -96,7 +100,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "23:00 - 04:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_06",
@@ -114,7 +119,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_07",
@@ -132,7 +138,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_08",
@@ -150,7 +157,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_OceanDriveNight",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/c/c6/Vice_City_02.jpg/revision/latest?cb=20261106094050"
     },
     {
       "id": "loc_09",
@@ -168,7 +176,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_10",
@@ -186,7 +195,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "18:00 - 06:00",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LittleCuba"
+      "scene_image": "GTAScene_LittleCuba",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/d/d0/Vice_City_03.jpg/revision/latest?cb=20261106094052"
     },
     {
       "id": "loc_11",
@@ -204,7 +214,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "21:00 - 05:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_12",
@@ -222,7 +233,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_RealDimez",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/59/OfficialScreenshots-GTAVI-PromotionalWebsite-RealDimez-SS1.jpg/revision/latest?cb=20250506161824"
     },
     {
       "id": "loc_13",
@@ -240,7 +252,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_14",
@@ -258,7 +271,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_BrianBoatyard",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/OfficialScreenshots-GTAVI-PromotionalWebsite-BrianHeder-SS1.jpg/revision/latest?cb=20250506161750"
     },
     {
       "id": "loc_15",
@@ -276,7 +290,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_16",
@@ -294,7 +309,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "أفضل رؤية بين 10:00 - 16:00 نهاراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_17",
@@ -312,7 +328,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_18",
@@ -330,7 +347,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_19",
@@ -348,7 +366,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_20",
@@ -366,7 +385,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_21",
@@ -384,7 +404,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_22",
@@ -402,7 +423,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MileZeroBase"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_23",
@@ -420,7 +442,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_24",
@@ -438,7 +461,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_25",
@@ -456,7 +480,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_26",
@@ -474,7 +499,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_27",
@@ -492,7 +518,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_28",
@@ -510,7 +537,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_29",
@@ -528,7 +556,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "20:00 - 03:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LittleCuba"
+      "scene_image": "GTAScene_LittleCuba",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/d/d0/Vice_City_03.jpg/revision/latest?cb=20261106094052"
     },
     {
       "id": "loc_30",
@@ -546,7 +575,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "00:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_RealDimez",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/59/OfficialScreenshots-GTAVI-PromotionalWebsite-RealDimez-SS1.jpg/revision/latest?cb=20250506161824"
     },
     {
       "id": "loc_31",
@@ -564,7 +594,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceBeach",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Vice_City_01.jpg/revision/latest?cb=20261106094049"
     },
     {
       "id": "loc_32",
@@ -582,7 +613,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_33",
@@ -600,7 +632,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceCitySkyline",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Vice_City_05.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_34",
@@ -618,7 +651,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_LittleCuba",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/d/d0/Vice_City_03.jpg/revision/latest?cb=20261106094052"
     },
     {
       "id": "loc_35",
@@ -636,7 +670,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_OnlyRawRecords",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/OfficialScreenshots-GTAVI-PromotionalWebsite-DreQuanPriest-SS1.jpg/revision/latest?cb=20250506161759"
     },
     {
       "id": "loc_36",
@@ -654,7 +689,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "23:00 - 04:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_37",
@@ -672,7 +708,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceBeach",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Vice_City_01.jpg/revision/latest?cb=20261106094049"
     },
     {
       "id": "loc_38",
@@ -690,7 +727,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "أثناء الجزر (المنسوب المنخفض)",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MileZeroBase"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_39",
@@ -708,7 +746,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "أثناء المطر أو الضباب ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_40",
@@ -726,7 +765,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ThrillbillyMud"
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_41",
@@ -744,7 +784,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "21:00 - 05:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_42",
@@ -762,7 +803,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_43",
@@ -780,7 +822,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "01:00 - 04:00 فجراً (وقت الضباب)",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_44",
@@ -798,7 +841,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MileZeroBase"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_45",
@@ -816,7 +860,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_46",
@@ -834,7 +879,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "02:00 - 05:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_GrassriversSwamp",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/48/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS1.jpg/revision/latest?cb=20250506164227"
     },
     {
       "id": "loc_47",
@@ -852,7 +898,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_48",
@@ -870,7 +917,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_49",
@@ -888,7 +936,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_PortGellhorn",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS1.jpg/revision/latest?cb=20250506164248"
     },
     {
       "id": "loc_50",
@@ -906,7 +955,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_51",
@@ -924,7 +974,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_StarletMotel"
+      "scene_image": "GTAScene_StarletMotel",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Artwork-JasonandLuciaMotel-GTAVI.jpg/revision/latest?cb=20250506171605"
     },
     {
       "id": "loc_52",
@@ -942,7 +993,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_53",
@@ -960,7 +1012,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_HamletPrison"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_54",
@@ -978,7 +1031,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "03:00 - 04:00 فجراً (أثناء العواصف)",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_55",
@@ -996,7 +1050,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_LakeLeonida",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/40/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/revision/latest?cb=20250506164219"
     },
     {
       "id": "loc_56",
@@ -1014,7 +1069,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "21:00 - 04:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_57",
@@ -1032,7 +1088,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_58",
@@ -1050,7 +1107,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_LakeLeonida",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/40/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/revision/latest?cb=20250506164219"
     },
     {
       "id": "loc_59",
@@ -1068,7 +1126,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_60",
@@ -1086,7 +1145,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_61",
@@ -1104,7 +1164,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_MountKalaga",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS1.jpg/revision/latest?cb=20250506164238"
     },
     {
       "id": "loc_62",
@@ -1122,7 +1183,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_63",
@@ -1140,7 +1202,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_64",
@@ -1158,7 +1221,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_65",
@@ -1176,7 +1240,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_66",
@@ -1194,7 +1259,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_StarletMotel",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Artwork-JasonandLuciaMotel-GTAVI.jpg/revision/latest?cb=20250506171605"
     },
     {
       "id": "loc_67",
@@ -1212,7 +1278,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "01:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceBeach",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Vice_City_01.jpg/revision/latest?cb=20261106094049"
     },
     {
       "id": "loc_68",
@@ -1230,7 +1297,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_69",
@@ -1248,7 +1316,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_70",
@@ -1266,7 +1335,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 03:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_GrassriversSwamp",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/48/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS1.jpg/revision/latest?cb=20250506164227"
     },
     {
       "id": "loc_71",
@@ -1284,7 +1354,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_72",
@@ -1302,7 +1373,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_73",
@@ -1320,7 +1392,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_74",
@@ -1338,7 +1411,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_75",
@@ -1356,7 +1430,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_76",
@@ -1374,7 +1449,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_77",
@@ -1392,7 +1468,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "06:00 - 07:30 صباحاً (الشروق)",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_MountKalaga",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS1.jpg/revision/latest?cb=20250506164238"
     },
     {
       "id": "loc_78",
@@ -1410,7 +1487,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_OnlyRawRecords",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/OfficialScreenshots-GTAVI-PromotionalWebsite-DreQuanPriest-SS1.jpg/revision/latest?cb=20250506161759"
     },
     {
       "id": "loc_79",
@@ -1428,7 +1506,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceBeach",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Vice_City_01.jpg/revision/latest?cb=20261106094049"
     },
     {
       "id": "loc_80",
@@ -1446,7 +1525,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_81",
@@ -1464,7 +1544,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_82",
@@ -1482,7 +1563,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_83",
@@ -1500,7 +1582,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_84",
@@ -1518,7 +1601,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "10:00 - 17:00 نهاراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_85",
@@ -1536,7 +1620,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_86",
@@ -1554,7 +1639,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_87",
@@ -1572,7 +1658,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 03:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_88",
@@ -1590,7 +1677,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_89",
@@ -1608,7 +1696,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_90",
@@ -1626,7 +1715,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_91",
@@ -1644,7 +1734,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_StarletMotel",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Artwork-JasonandLuciaMotel-GTAVI.jpg/revision/latest?cb=20250506171605"
     },
     {
       "id": "loc_92",
@@ -1662,7 +1753,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "20:00 - 02:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_93",
@@ -1680,7 +1772,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_94",
@@ -1698,7 +1791,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "01:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_LakeLeonida",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/40/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/revision/latest?cb=20250506164219"
     },
     {
       "id": "loc_95",
@@ -1716,7 +1810,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_96",
@@ -1734,7 +1829,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_97",
@@ -1752,7 +1848,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_98",
@@ -1770,7 +1867,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_99",
@@ -1788,7 +1886,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceCitySkyline",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Vice_City_05.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_100",
@@ -1806,7 +1905,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 01:00 منتصف الليل",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_101",
@@ -1824,7 +1924,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_102",
@@ -1842,7 +1943,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_103",
@@ -1860,7 +1962,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:30 - 03:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_ViceBeach",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/7/75/Vice_City_01.jpg/revision/latest?cb=20261106094049"
     },
     {
       "id": "loc_104",
@@ -1878,7 +1981,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_105",
@@ -1896,7 +2000,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "21:00 - 05:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_106",
@@ -1914,7 +2019,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_107",
@@ -1932,7 +2038,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_108",
@@ -1950,7 +2057,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "22:00 - 03:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_109",
@@ -1968,7 +2076,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_110",
@@ -1986,7 +2095,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_111",
@@ -2004,7 +2114,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_112",
@@ -2022,7 +2133,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_113",
@@ -2040,7 +2152,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_114",
@@ -2058,7 +2171,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "01:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_BrianBoatyard",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/OfficialScreenshots-GTAVI-PromotionalWebsite-BrianHeder-SS1.jpg/revision/latest?cb=20250506161750"
     },
     {
       "id": "loc_115",
@@ -2076,7 +2190,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_116",
@@ -2094,7 +2209,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_117",
@@ -2112,7 +2228,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_KeyLento",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS1.jpg/revision/latest?cb=20250506164232"
     },
     {
       "id": "loc_118",
@@ -2130,7 +2247,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_GrassriversSwamp",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/48/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS1.jpg/revision/latest?cb=20250506164227"
     },
     {
       "id": "loc_119",
@@ -2148,7 +2266,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_120",
@@ -2166,7 +2285,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_121",
@@ -2184,7 +2304,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_122",
@@ -2202,7 +2323,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_123",
@@ -2220,7 +2342,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_124",
@@ -2238,7 +2361,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_125",
@@ -2256,7 +2380,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_126",
@@ -2274,7 +2399,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_127",
@@ -2292,7 +2418,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_128",
@@ -2310,7 +2437,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_129",
@@ -2328,7 +2456,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_130",
@@ -2346,7 +2475,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_131",
@@ -2364,7 +2494,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_132",
@@ -2382,7 +2513,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "02:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_133",
@@ -2400,7 +2532,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_LakeLeonida",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/40/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/revision/latest?cb=20250506164219"
     },
     {
       "id": "loc_134",
@@ -2418,7 +2551,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_135",
@@ -2436,7 +2570,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "02:30 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_136",
@@ -2454,7 +2589,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_137",
@@ -2472,7 +2608,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_138",
@@ -2490,7 +2627,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_139",
@@ -2508,7 +2646,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_140",
@@ -2526,7 +2665,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "00:00 - 02:00 منتصف الليل",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_OceanDriveNight",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/c/c6/Vice_City_02.jpg/revision/latest?cb=20261106094050"
     },
     {
       "id": "loc_141",
@@ -2544,7 +2684,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_RealDimez",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/59/OfficialScreenshots-GTAVI-PromotionalWebsite-RealDimez-SS1.jpg/revision/latest?cb=20250506161824"
     },
     {
       "id": "loc_142",
@@ -2562,7 +2703,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "21:00 - 04:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_143",
@@ -2580,7 +2722,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MileZeroBase"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_144",
@@ -2598,7 +2741,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "20:00 - 05:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_145",
@@ -2616,7 +2760,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_146",
@@ -2634,7 +2779,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "00:00 - 04:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_HamletPrison"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_147",
@@ -2652,7 +2798,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "وقت الضباب أو الليل",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_MountKalaga",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS1.jpg/revision/latest?cb=20250506164238"
     },
     {
       "id": "loc_148",
@@ -2670,7 +2817,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_StarletMotel"
+      "scene_image": "GTAScene_StarletMotel",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Artwork-JasonandLuciaMotel-GTAVI.jpg/revision/latest?cb=20250506171605"
     },
     {
       "id": "loc_149",
@@ -2688,7 +2836,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_150",
@@ -2706,7 +2855,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_151",
@@ -2724,7 +2874,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "01:00 - 04:00 فجراً (أثناء العواصف)",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_152",
@@ -2742,7 +2893,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_OceanDriveNight",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/c/c6/Vice_City_02.jpg/revision/latest?cb=20261106094050"
     },
     {
       "id": "loc_153",
@@ -2760,7 +2912,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_PortGellhorn"
+      "scene_image": "GTAScene_PortGellhorn",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS1.jpg/revision/latest?cb=20250506164248"
     },
     {
       "id": "loc_154",
@@ -2778,7 +2931,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_155",
@@ -2796,7 +2950,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_156",
@@ -2814,7 +2969,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_157",
@@ -2832,7 +2988,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "18:00 - 00:00 مساءً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_GrassriversSwamp",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/48/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS1.jpg/revision/latest?cb=20250506164227"
     },
     {
       "id": "loc_158",
@@ -2850,7 +3007,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_159",
@@ -2868,7 +3026,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_160",
@@ -2886,7 +3045,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_OnlyRawRecords",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/OfficialScreenshots-GTAVI-PromotionalWebsite-DreQuanPriest-SS1.jpg/revision/latest?cb=20250506161759"
     },
     {
       "id": "loc_161",
@@ -2904,7 +3064,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "20:00 - 05:00 ليلاً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_KeyLento",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS1.jpg/revision/latest?cb=20250506164232"
     },
     {
       "id": "loc_162",
@@ -2922,7 +3083,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_KeyLento"
+      "scene_image": "GTAScene_BrianBoatyard",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/OfficialScreenshots-GTAVI-PromotionalWebsite-BrianHeder-SS1.jpg/revision/latest?cb=20250506161750"
     },
     {
       "id": "loc_163",
@@ -2940,7 +3102,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_164",
@@ -2958,7 +3121,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_165",
@@ -2976,7 +3140,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_166",
@@ -2994,7 +3159,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_167",
@@ -3012,7 +3178,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "00:00 - 05:00 فجراً",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_168",
@@ -3030,7 +3197,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_169",
@@ -3048,7 +3216,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_170",
@@ -3066,7 +3235,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "متاح 24/7",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_StarletMotel",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Artwork-JasonandLuciaMotel-GTAVI.jpg/revision/latest?cb=20250506171605"
     },
     {
       "id": "loc_171",
@@ -3084,7 +3254,8 @@
       "secret_hint_ar": "ادخل من خلف مجسم التمساح الوردي العملاق عند منتصف الليل وشغّل المولد الكهربائي لفتح غرفة الأرشيف السري.",
       "reward_ar": "بدلة Macca the Gator النادرة + حقيبة أموال بقيمة $95,000",
       "time_window": "ليلاً فقط (00:00 - 04:00) 🌙",
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_OnlyRawRecords",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/OfficialScreenshots-GTAVI-PromotionalWebsite-DreQuanPriest-SS1.jpg/revision/latest?cb=20250506161759"
     },
     {
       "id": "loc_172",
@@ -3102,7 +3273,8 @@
       "secret_hint_ar": "فجّر الألواح الخشبية التي تسد مدخل نفق القطار خلف صومعة نشارة الخشب الكبرى.",
       "reward_ar": "سبائك فضة وذهب قديمة بقيمة $110,000 + بندقية صيد أثرية",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_173",
@@ -3120,7 +3292,8 @@
       "secret_hint_ar": "اصعد السلم الحديدي حتى قمة البرج واكسر قفل الصندوق العسكري بجانب منظار الرصد.",
       "reward_ar": "مظلة قفز تكتيكية سوداء + قناصة بعيدة المدى + $45,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_174",
@@ -3138,7 +3311,8 @@
       "secret_hint_ar": "تسلل عبر فتحة التهوية الخلفية للورشة واسرق مفتاح الدراجة المعدلة من مكتب قائد العصابة.",
       "reward_ar": "دراجة نارية Custom Chopper مدرعة + $80,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_175",
@@ -3156,7 +3330,8 @@
       "secret_hint_ar": "عطّل محول السكة الإلكتروني في برج التحكم لتحويل العربة المصفحة نحو المستودع الجانبي.",
       "reward_ar": "صناديق سندات خزينة وسبائك بقيمة $185,000",
       "time_window": "ليلاً فقط (22:00 - 04:00) 🌙",
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_176",
@@ -3174,7 +3349,8 @@
       "secret_hint_ar": "ادخل ببطاقة عالم أبحاث أو عبر نفق التصريف البحري الشرقي للوصول إلى المختبر تحت الأرض.",
       "reward_ar": "سلاح نبض كهرومغناطيسي تجريبي + بيانات سرية بقيمة $160,000",
       "time_window": "ليلاً فقط (00:00 - 05:00) 🌙",
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_AmbrosiaRefinery",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2e/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS4.jpg/revision/latest?cb=20250506164223"
     },
     {
       "id": "loc_177",
@@ -3192,7 +3368,8 @@
       "secret_hint_ar": "اضرب زر الإنذار المخفي خلف تمثال الكأس الذهبي في صالة كبار الشخصيات لفتح الجدار المتحرك.",
       "reward_ar": "حقيبة ألماس وساعات فاخرة بقيمة $125,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_JackOfHearts"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_178",
@@ -3210,7 +3387,8 @@
       "secret_hint_ar": "اهبط بالمروحية مباشرة على سطح البرج الزجاجي وتجاوز حراس الأمن للوصول إلى الخزنة البيومترية.",
       "reward_ar": "مروحية فاخرة خاصة + خزنة نقدية بقيمة $140,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_LittleCuba",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/d/d0/Vice_City_03.jpg/revision/latest?cb=20261106094052"
     },
     {
       "id": "loc_179",
@@ -3228,7 +3406,8 @@
       "secret_hint_ar": "افتح باب الحاوية الزرقاء رقم 09 داخل الفناء الخلفي لتشغيل المصعد الهيدروليكي المؤدي للقبو.",
       "reward_ar": "سيارة رياضية خارقة بنسخة اختبارية + $90,000",
       "time_window": "ليلاً فقط (21:00 - 05:00) 🌙",
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_JackOfHearts",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_180",
@@ -3246,7 +3425,8 @@
       "secret_hint_ar": "حطم الرقم القياسي للفة الحلبة بأقل من دقيقة و25 ثانية ليُفتح لك كراج الفريق الذهبي رقم 1.",
       "reward_ar": "سيارة سباق حلبات خارقة + جائزة نقدية $100,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_CapriRaceway"
+      "scene_image": "GTAScene_CapriRaceway",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_181",
@@ -3264,7 +3444,8 @@
       "secret_hint_ar": "غُص تحت رافعة الحاويات الحمراء العملاقة واعبر النفق المائي المضاء بالكشافات الخضراء.",
       "reward_ar": "غواصة استطلاع صغيرة قابلة للقيادة + $135,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_182",
@@ -3282,7 +3463,8 @@
       "secret_hint_ar": "استخدم عدة الغوص لفتح باب قمرة القيادة الخلفي وانتبه لأسماك القرش المحيطة بالحطام.",
       "reward_ar": "3 صناديق ذهب ومجوهرات بقيمة $120,000",
       "time_window": "النهار لوضوح الرؤية تحت الماء ☀️",
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_183",
@@ -3300,7 +3482,8 @@
       "secret_hint_ar": "تسلل بزي طيار عسكري أو عطّل رادار القاعدة في البرج الغربي لفتح بوابة الهنغر الفولاذية.",
       "reward_ar": "طائرة نفاثة عسكرية متطورة + معدات طيران تكتيكية",
       "time_window": "ليلاً فقط (01:00 - 04:30) 🌙",
-      "scene_image": "GTAScene_MileZeroBase"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_184",
@@ -3318,7 +3501,8 @@
       "secret_hint_ar": "اقترب بقارب صامت دون تشغيل الكشافات عند الساعة 02:00 فجراً لفك لغز الرموز الخمسة على جدار الكوخ.",
       "reward_ar": "قارب مستنقعات شبحي صامت + تعويذة أثرية بقيمة $90,000",
       "time_window": "منتصف الليل (01:00 - 04:00) 🌙",
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_GrassriversSwamp",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/48/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS1.jpg/revision/latest?cb=20250506164227"
     },
     {
       "id": "loc_185",
@@ -3336,7 +3520,8 @@
       "secret_hint_ar": "حدد موقع عوامة الطوارئ الصفراء في منتصف البحيرة وغُص لعمق 35 متراً لقص قفل غرفة الخزنة.",
       "reward_ar": "سبائك ذهب فدرالية بقيمة $200,000",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_UnderwaterWreck"
+      "scene_image": "GTAScene_UnderwaterWreck",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0c/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS3.jpg/revision/latest?cb=20250506164234"
     },
     {
       "id": "loc_186",
@@ -3354,7 +3539,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "ليلاً فقط (21:00 - 04:00) 🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_187",
@@ -3372,7 +3558,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LittleCuba"
+      "scene_image": "GTAScene_LittleCuba",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/d/d0/Vice_City_03.jpg/revision/latest?cb=20261106094052"
     },
     {
       "id": "loc_188",
@@ -3390,7 +3577,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_189",
@@ -3408,7 +3596,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "أثناء العواصف والأمطار أو ليلاً ⛈️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_MileZeroBase",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/99/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS4.jpg/revision/latest?cb=20250506164235"
     },
     {
       "id": "loc_190",
@@ -3426,7 +3615,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_LakeLeonida",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/40/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS1.jpg/revision/latest?cb=20250506164219"
     },
     {
       "id": "loc_191",
@@ -3444,7 +3634,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "ليلاً فقط (00:00 - 05:00) 🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_AmmuNation",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_192",
@@ -3462,7 +3653,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_KalagaHunting",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_193",
@@ -3480,7 +3672,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "الصباح الباكر (06:00 - 10:00) ☀️",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_194",
@@ -3498,7 +3691,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_ViceBeach"
+      "scene_image": "GTAScene_OceanDriveNight",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/c/c6/Vice_City_02.jpg/revision/latest?cb=20261106094050"
     },
     {
       "id": "loc_195",
@@ -3516,7 +3710,8 @@
       "rarity": "سري للغاية 🛸",
       "time_window": "الفجر والضباب (04:00 - 07:00) 🌫️",
       "is_pro_only": false,
-      "scene_image": "GTAScene_GrassriversSwamp"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_196",
@@ -3534,7 +3729,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "ليلاً فقط (22:00 - 04:00) 🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MileZeroBase"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_197",
@@ -3552,7 +3748,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_AmmuNation"
+      "scene_image": "GTAScene_CalHampton",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_198",
@@ -3570,7 +3767,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_LakeLeonida"
+      "scene_image": "GTAScene_HamletPrison",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_199",
@@ -3588,7 +3786,8 @@
       "rarity": "نادر جداً 💎",
       "time_window": "أي وقت ☀️🌙",
       "is_pro_only": false,
-      "scene_image": "GTAScene_MountKalaga"
+      "scene_image": "GTAScene_MountKalaga",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/a7/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS1.jpg/revision/latest?cb=20250506164238"
     },
     {
       "id": "loc_200",
@@ -3606,7 +3805,8 @@
       "rarity": "أسطوري 🔥",
       "time_window": "شروق الشمس (05:30 - 07:30) 🌅",
       "is_pro_only": false,
-      "scene_image": "GTAScene_BankHeist"
+      "scene_image": "GTAScene_BankHeist",
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_201",
@@ -3623,8 +3823,9 @@
       "reward_ar": "فتح مقر جيسون الآمن في Key Lento + كتاب Ashes of Glory النادر",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 1 (Just Like Paradise) 🌴",
-      "scene_image": "GTAScene_KeyLento",
-      "is_pro_only": false
+      "scene_image": "GTAScene_HamletPrison",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/Lucia-GTAVI-Prison.png/revision/latest?cb=20250811092841"
     },
     {
       "id": "loc_202",
@@ -3641,8 +3842,9 @@
       "reward_ar": "فتح الأسلحة الطويلة + أول سلاح نادر قابل للتخصيص",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 1 (Just Like Paradise) 🎯",
-      "scene_image": "GTAScene_AmmuNation",
-      "is_pro_only": false
+      "scene_image": "GTAScene_KeyLento",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/9/9a/OfficialScreenshots-GTAVI-PromotionalWebsite-LeonidaKeys-SS1.jpg/revision/latest?cb=20250506164232"
     },
     {
       "id": "loc_203",
@@ -3659,8 +3861,9 @@
       "reward_ar": "حصة نقدية من براين هيدر + فتح مهام التهريب البحري في الكيز",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 1 (Just Like Paradise) ⚓",
-      "scene_image": "GTAScene_KeyLento",
-      "is_pro_only": false
+      "scene_image": "GTAScene_AmmuNation",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/1/17/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS5.jpg/revision/latest?cb=20250506164252"
     },
     {
       "id": "loc_204",
@@ -3677,8 +3880,9 @@
       "reward_ar": "فتح ماسح ترددات خفر السواحل + مكافأة نقدية",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 1 (Just Like Paradise) 📡",
-      "scene_image": "GTAScene_KeyLento",
-      "is_pro_only": false
+      "scene_image": "GTAScene_BrianBoatyard",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/b1/OfficialScreenshots-GTAVI-PromotionalWebsite-BrianHeder-SS1.jpg/revision/latest?cb=20250506161750"
     },
     {
       "id": "loc_205",
@@ -3695,8 +3899,9 @@
       "reward_ar": "فتح اللعب المزدوج بجيسون ولوسيا + تطبيق BuckMe المالي",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 1 (Just Like Paradise) 🐊",
-      "scene_image": "GTAScene_GrassriversSwamp",
-      "is_pro_only": false
+      "scene_image": "GTAScene_CalHampton",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/6/67/OfficialScreenshots-GTAVI-PromotionalWebsite-CalHampton-SS1.jpg/revision/latest?cb=20250506161754"
     },
     {
       "id": "loc_206",
@@ -3713,8 +3918,9 @@
       "reward_ar": "فتح أداة Slim Jim الدائمة لسرقة المركبات بصمت 🔓",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 2 (Paradise Lost) 🛠️",
-      "scene_image": "GTAScene_StarletMotel",
-      "is_pro_only": false
+      "scene_image": "GTAScene_GrassriversSwamp",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/4/48/OfficialScreenshots-GTAVI-PromotionalWebsite-Grassrivers-SS1.jpg/revision/latest?cb=20250506164227"
     },
     {
       "id": "loc_207",
@@ -3731,8 +3937,9 @@
       "reward_ar": "الانتقال إلى الفصل 3 وفتح مقر Vice City الرئيسي 🌆",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "نهاية الفصل 2 (Paradise Lost) 💰",
-      "scene_image": "GTAScene_StarletMotel",
-      "is_pro_only": false
+      "scene_image": "GTAScene_PortGellhorn",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/0/0d/OfficialScreenshots-GTAVI-PromotionalWebsite-PortGellhorn-SS1.jpg/revision/latest?cb=20250506164248"
     },
     {
       "id": "loc_208",
@@ -3749,8 +3956,9 @@
       "reward_ar": "فتح أداة Pry Bar لفتح الصناديق الخشبية + سلسلة مهام Boobie Ike",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 3 (Vice City Operations) 🌆",
-      "scene_image": "GTAScene_JackOfHearts",
-      "is_pro_only": false
+      "scene_image": "GTAScene_StarletMotel",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/56/Artwork-JasonandLuciaMotel-GTAVI.jpg/revision/latest?cb=20250506171605"
     },
     {
       "id": "loc_209",
@@ -3768,7 +3976,8 @@
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 3 (Vice City Operations) 🎵",
       "scene_image": "GTAScene_JackOfHearts",
-      "is_pro_only": false
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/a/ae/OfficialScreenshots-GTAVI-PromotionalWebsite-BoobieIke-SS1.jpg/revision/latest?cb=20250506161744"
     },
     {
       "id": "loc_210",
@@ -3785,8 +3994,9 @@
       "reward_ar": "فتح جهاز Key Cloner الإلكتروني + غنيمة المصرف الكبرى $250,000",
       "rarity": "مهمة قصة رئيسية 🎬",
       "time_window": "الفصل 3 (Vice City Operations) 🏦",
-      "scene_image": "GTAScene_BankHeist",
-      "is_pro_only": false
+      "scene_image": "GTAScene_OnlyRawRecords",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/2/2c/OfficialScreenshots-GTAVI-PromotionalWebsite-DreQuanPriest-SS1.jpg/revision/latest?cb=20250506161759"
     },
     {
       "id": "loc_211",
@@ -3803,8 +4013,9 @@
       "reward_ar": "عربة Swamp Buggy معدلة + التقدم في إنجاز Strangers & Freaks 🏆",
       "rarity": "مهمة غرباء وجانبية 🎭",
       "time_window": "متاح منذ الفصل 2 وما بعده 🏁",
-      "scene_image": "GTAScene_ThrillbillyMud",
-      "is_pro_only": false
+      "scene_image": "GTAScene_BankHeist",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/b/bf/OfficialScreenshots-GTAVI-PromotionalWebsite-RaulBautista-SS1.jpg/revision/latest?cb=20250506161819"
     },
     {
       "id": "loc_212",
@@ -3821,8 +4032,9 @@
       "reward_ar": "بندقية صيد احترافية مخصصة + تقدم تختيم 100% (A Long Road)",
       "rarity": "مهمة غرباء وجانبية 🎭",
       "time_window": "متاح منذ الفصل 2 وفي التجول الحر 🦌",
-      "scene_image": "GTAScene_MountKalaga",
-      "is_pro_only": false
+      "scene_image": "GTAScene_ThrillbillyMud",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/f/f1/OfficialScreenshots-GTAVI-PromotionalWebsite-Ambrosia-SS3.jpg/revision/latest?cb=20250506164221"
     },
     {
       "id": "loc_213",
@@ -3839,8 +4051,9 @@
       "reward_ar": "مكافآت مالية ضخمة + فتح سيارات Wyman المعدلة مجاناً",
       "rarity": "مهمة غرباء وجانبية 🎭",
       "time_window": "الفصل 3 والتجول الحر 🏎️",
-      "scene_image": "GTAScene_ViceBeach",
-      "is_pro_only": false
+      "scene_image": "GTAScene_KalagaHunting",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/e/e0/OfficialScreenshots-GTAVI-PromotionalWebsite-MountKalaga-SS4.jpg/revision/latest?cb=20250506164242"
     },
     {
       "id": "loc_214",
@@ -3857,8 +4070,9 @@
       "reward_ar": "إكمال مجموعة World Art & Murals + ملابس حصرية",
       "rarity": "استكشاف ومعالم 🧭",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_LittleCuba",
-      "is_pro_only": false
+      "scene_image": "GTAScene_CapriRaceway",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/3/34/Vice_City_04.jpg/revision/latest?cb=20261106094053"
     },
     {
       "id": "loc_215",
@@ -3875,8 +4089,9 @@
       "reward_ar": "تقدم مباشر في تروفي التختيم 100% (A Long Road) + $150,000",
       "rarity": "مقتنيات نادرة 💎",
       "time_window": "أي وقت ☀️🌙",
-      "scene_image": "GTAScene_ViceBeach",
-      "is_pro_only": false
+      "scene_image": "GTAScene_RealDimez",
+      "is_pro_only": false,
+      "image_url": "https://static.wikia.nocookie.net/gtawiki/images/5/59/OfficialScreenshots-GTAVI-PromotionalWebsite-RealDimez-SS1.jpg/revision/latest?cb=20250506161824"
     }
   ],
   "cheats": [
