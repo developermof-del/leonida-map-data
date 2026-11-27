@@ -1,5 +1,5 @@
 {
-  "version": 320,
+  "version": 325,
   "last_updated": "2026-11-27",
   "sources": [
     "GTA VI Official Launch Walkthroughs (Chapters 1-5: Jason Duval & Lucia Caminos)",
@@ -9,7 +9,7 @@
   ],
   "locations": [
     {
-      "id": "loc_20",
+      "id": "loc_1",
       "title_ar": "متجر الرهن والأسلحة السري (Pawn & Gun)",
       "title_en": "Port Gellhorn Pawn & Gun Backroom",
       "category": "weapons",
@@ -28,7 +28,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "loc_21",
+      "id": "loc_2",
       "title_ar": "حلبة سباقات غيلهورن (Gellhorn Speedway)",
       "title_en": "Port Gellhorn Stock Car Speedway",
       "category": "activities",
@@ -47,7 +47,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "loc_200",
+      "id": "loc_3",
       "title_ar": "قمة الصقر ومنطاد القفز الشراعي في جبل كالاغا (Mount Kalaga Eagle Peak Vault)",
       "title_en": "Mount Kalaga Eagle Peak Hang-Glider & Secret Hermit Cave",
       "category": "strangers",
@@ -66,7 +66,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "loc_201",
+      "id": "loc_4",
       "title_ar": "مهمة الفصل 1: رحلة صيد السمك (Gone Fishing - Jason & Cal Hampton)",
       "title_en": "Chapter 1 Mission: Gone Fishing (Jason Duval & Cal Hampton)",
       "category": "missions",
@@ -85,7 +85,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/main-story-1795386072906.jpg"
     },
     {
-      "id": "loc_202",
+      "id": "loc_5",
       "title_ar": "مهمة الفصل 1: التسلح من متجر كي لينتو (Gear Up - Key Lento Ammu-Nation)",
       "title_en": "Chapter 1 Mission: Gear Up (Key Lento Ammu-Nation)",
       "category": "missions",
@@ -104,7 +104,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/main-story-1795386072906.jpg"
     },
     {
-      "id": "loc_203",
+      "id": "loc_6",
       "title_ar": "مهمة الفصل 1: رسوم المختبر وحوض قوارب براين (Lab Fees & Pipework - Brian Heder)",
       "title_en": "Chapter 1 Mission: Lab Fees & Pipework (Brian Heder Boatyard)",
       "category": "missions",
@@ -123,7 +123,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "loc_204",
+      "id": "loc_7",
       "title_ar": "مهمة الفصل 1: انتباه غير مرغوب فيه ورادار كال (Unwanted Attention - Cal Hampton)",
       "title_en": "Chapter 1 Mission: Unwanted Attention (Cal Hampton Coast Guard Scanner)",
       "category": "missions",
@@ -142,7 +142,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/main-story-1795386072906.jpg"
     },
     {
-      "id": "loc_205",
+      "id": "loc_8",
       "title_ar": "مهمة الفصل 1: لمّ الشمل وتطبيق باك مي (Coming Home, Buck Me & Swamped)",
       "title_en": "Chapter 1 Mission: Coming Home, Buck Me & Swamped (Lucia & Jason)",
       "category": "missions",
@@ -161,7 +161,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "loc_206",
+      "id": "loc_9",
       "title_ar": "مهمة الفصل 2: موسى وأداة فتح السيارات الصامتة (Moses & The Slim Jim Tool)",
       "title_en": "Chapter 2 Mission: Paradise Lost - Moses & Slim Jim Unlock",
       "category": "missions",
@@ -180,7 +180,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/main-story-1795386072906.jpg"
     },
     {
-      "id": "loc_207",
+      "id": "loc_10",
       "title_ar": "مهمة الفصل 2: التحضير لفايس سيتي والخروج (Prepare for Vice City & Checking Out)",
       "title_en": "Chapter 2 Finale: Prepare for Vice City ($15,000 Goal) & Checking Out",
       "category": "missions",
@@ -199,7 +199,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "loc_208",
+      "id": "loc_11",
       "title_ar": "مهمة الفصل 3: نادي جاك أوف هارتس وبوبي آيك (Boobie Ike & Jack of Hearts Club)",
       "title_en": "Chapter 3 Mission: Boobie Ike & Jack of Hearts Club (Crosstown Vice City)",
       "category": "missions",
@@ -218,7 +218,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "loc_209",
+      "id": "loc_12",
       "title_ar": "مهمة الفصل 3: استوديو أونلي راو ريكوردز ودري كوان (Only Raw Records & Dre'Quan Priest)",
       "title_en": "Chapter 3 Mission: Only Raw Records Studio (Dre'Quan Priest & Real Dimez)",
       "category": "missions",
@@ -237,7 +237,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/main-story-1795386072906.jpg"
     },
     {
-      "id": "loc_210",
+      "id": "loc_13",
       "title_ar": "مهمة الفصل 3: راؤول باوتيستا وسرقة المصرف وجهاز استنساخ المفاتيح (Raul Bautista & Key Cloner)",
       "title_en": "Chapter 3 Mission: Raul Bautista Bank Heist & Key Cloner Unlock",
       "category": "missions",
@@ -256,7 +256,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/main-story-1795386072906.jpg"
     },
     {
-      "id": "loc_211",
+      "id": "loc_14",
       "title_ar": "مهمة الغرباء: بيلي ونادي ثريل بيلي للسباقات الطينية (Billy & Thrillbilly Mud Club)",
       "title_en": "Strangers & Freaks: Billy's Mud Crew at Thrillbilly Mud Club (Frogswater)",
       "category": "strangers",
@@ -275,7 +275,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "loc_212",
+      "id": "loc_15",
       "title_ar": "مهمة الغرباء: بريت وصيد الحياة البرية في كالاغا (Bret's Hunting & Binocular Wildlife Study)",
       "title_en": "Strangers & Freaks: Bret's Hunting Quests & Wildlife Study (Mount Kalaga)",
       "category": "strangers",
@@ -294,7 +294,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "loc_213",
+      "id": "loc_16",
       "title_ar": "مهمة الغرباء: قائمة راندي للسيارات الخارقة وسيارات وايمان (Randy's Wish List & Wyman's Cars)",
       "title_en": "Strangers & Freaks: Randy's Wish List & Wyman's Custom Standout Vehicles",
       "category": "strangers",
@@ -313,7 +313,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/animals-2-1795450515518.jpg"
     },
     {
-      "id": "loc_214",
+      "id": "loc_17",
       "title_ar": "مقتنيات: جداريات أهول وفن الشارع 1010 وتطبيق WAiNK (Ahol Street Art & 1010 Murals)",
       "title_en": "Exploration & Collectibles: Ahol Street Art, 1010 Murals & WAiNK Scans",
       "category": "exploration",
@@ -332,7 +332,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "loc_215",
+      "id": "loc_18",
       "title_ar": "مقتنيات: طيور الفلامينغو وكنوز كينتون والكتب الـ 27 (Cocaine Flamingos & Kenton's Treasures)",
       "title_en": "Collectibles Hub: Cocaine Flamingos, Kenton's Treasures, Doubloons & 27 Books",
       "category": "collectibles",
@@ -351,7 +351,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1089561",
+      "id": "loc_19",
       "title_ar": "نادي غولف رسمي (Golf Course): Leaf Links Golf Club",
       "title_en": "Leaf Links Golf Club",
       "category": "activities",
@@ -370,7 +370,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-pool-1795450501020.jpg"
     },
     {
-      "id": "ign_1089562",
+      "id": "loc_20",
       "title_ar": "نادي غولف رسمي (Golf Course): Mount Hailes Country Club",
       "title_en": "Mount Hailes Country Club",
       "category": "activities",
@@ -389,7 +389,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-pool-1795450501020.jpg"
     },
     {
-      "id": "ign_1089580",
+      "id": "loc_21",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Shooting Range",
       "title_en": "Griffin Shooting Range",
       "category": "weapons",
@@ -408,7 +408,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089581",
+      "id": "loc_22",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Free Fire Range",
       "title_en": "Griffin Free Fire Range",
       "category": "weapons",
@@ -427,7 +427,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089582",
+      "id": "loc_23",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin 3-Point Range",
       "title_en": "Griffin 3-Point Range",
       "category": "weapons",
@@ -446,7 +446,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089583",
+      "id": "loc_24",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Hook Range",
       "title_en": "Griffin Hook Range",
       "category": "weapons",
@@ -465,7 +465,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089584",
+      "id": "loc_25",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Loop Range",
       "title_en": "Griffin Loop Range",
       "category": "weapons",
@@ -484,7 +484,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089585",
+      "id": "loc_26",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Maze Range",
       "title_en": "Griffin Maze Range",
       "category": "weapons",
@@ -503,7 +503,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089586",
+      "id": "loc_27",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Compound Range",
       "title_en": "Griffin Compound Range",
       "category": "weapons",
@@ -522,7 +522,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1089587",
+      "id": "loc_28",
       "title_ar": "ميدان رماية وتحدي أسلحة (Shooting Range): Griffin Villa Range",
       "title_en": "Griffin Villa Range",
       "category": "weapons",
@@ -541,7 +541,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/1-weapons-1795386410228.jpg"
     },
     {
-      "id": "ign_1090123",
+      "id": "loc_29",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Downtown Shorefront Bank",
       "title_en": "Downtown Shorefront Bank",
       "category": "bunkers",
@@ -560,7 +560,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090124",
+      "id": "loc_30",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Rockridge Shorefront Bank",
       "title_en": "Rockridge Shorefront Bank",
       "category": "bunkers",
@@ -579,7 +579,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090125",
+      "id": "loc_31",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Peacock Bay Fleeca Bank",
       "title_en": "Peacock Bay Fleeca Bank",
       "category": "bunkers",
@@ -598,7 +598,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090126",
+      "id": "loc_32",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Peacock Bay Lombank",
       "title_en": "Peacock Bay Lombank",
       "category": "bunkers",
@@ -617,7 +617,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090127",
+      "id": "loc_33",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Bayside Lombank",
       "title_en": "Bayside Lombank",
       "category": "bunkers",
@@ -636,7 +636,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090128",
+      "id": "loc_34",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Ocean Beach Shorefront Beach",
       "title_en": "Ocean Beach Shorefront Beach",
       "category": "bunkers",
@@ -655,7 +655,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090129",
+      "id": "loc_35",
       "title_ar": "مصرف هدف للسطو (Bank Robbery): Ocean Beach Fleeca Bank",
       "title_en": "Ocean Beach Fleeca Bank",
       "category": "bunkers",
@@ -674,7 +674,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090133",
+      "id": "loc_36",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Downtown Fleeca Big Bank",
       "title_en": "Downtown Fleeca Big Bank",
       "category": "bunkers",
@@ -693,7 +693,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090134",
+      "id": "loc_37",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Downtown Lombank Big Bank",
       "title_en": "Downtown Lombank Big Bank",
       "category": "bunkers",
@@ -712,7 +712,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090135",
+      "id": "loc_38",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Tequesta Fleeca Big Bank",
       "title_en": "Tequesta Fleeca Big Bank",
       "category": "bunkers",
@@ -731,7 +731,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090136",
+      "id": "loc_39",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): VCIA Fleeca Bank",
       "title_en": "VCIA Fleeca Bank",
       "category": "bunkers",
@@ -750,7 +750,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090137",
+      "id": "loc_40",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Ocean Beach Lombank Big Bank 1",
       "title_en": "Ocean Beach Lombank Big Bank 1",
       "category": "bunkers",
@@ -769,7 +769,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090138",
+      "id": "loc_41",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Ocean Beach Lombank Big Bank 2",
       "title_en": "Ocean Beach Lombank Big Bank 2",
       "category": "bunkers",
@@ -788,7 +788,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090139",
+      "id": "loc_42",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Ocean Beach Fleeca Big Bank",
       "title_en": "Ocean Beach Fleeca Big Bank",
       "category": "bunkers",
@@ -807,7 +807,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090140",
+      "id": "loc_43",
       "title_ar": "بنك مركزي ضخم للسطو (Big Bank Heist): Ocean Beach Shorefront Big Bank 1",
       "title_en": "Ocean Beach Shorefront Big Bank 1",
       "category": "bunkers",
@@ -826,7 +826,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090155",
+      "id": "loc_44",
       "title_ar": "متجر مجوهرات فاخرة للسطو (High-End Jewelry Store): Plush",
       "title_en": "Plush",
       "category": "bunkers",
@@ -845,7 +845,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090159",
+      "id": "loc_45",
       "title_ar": "متجر مجوهرات فاخرة للسطو (High-End Jewelry Store): Donovan Banks & Co.",
       "title_en": "Donovan Banks & Co.",
       "category": "bunkers",
@@ -864,7 +864,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090162",
+      "id": "loc_46",
       "title_ar": "متجر مجوهرات فاخرة للسطو (High-End Jewelry Store): Legendary Custom Jewelry",
       "title_en": "Legendary Custom Jewelry",
       "category": "bunkers",
@@ -883,7 +883,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090165",
+      "id": "loc_47",
       "title_ar": "متجر مجوهرات فاخرة للسطو (High-End Jewelry Store): Blanc & Giroux",
       "title_en": "Blanc & Giroux",
       "category": "bunkers",
@@ -902,7 +902,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090167",
+      "id": "loc_48",
       "title_ar": "متجر مجوهرات فاخرة للسطو (High-End Jewelry Store): Roval Jewelry",
       "title_en": "Roval Jewelry",
       "category": "bunkers",
@@ -921,7 +921,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1090168",
+      "id": "loc_49",
       "title_ar": "متجر مجوهرات فاخرة للسطو (High-End Jewelry Store): Covgari",
       "title_en": "Covgari",
       "category": "bunkers",
@@ -940,7 +940,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1089595",
+      "id": "loc_50",
       "title_ar": "نادي رياضي رسمي (Gym): Zenith",
       "title_en": "Zenith",
       "category": "safehouses",
@@ -959,7 +959,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089596",
+      "id": "loc_51",
       "title_ar": "نادي رياضي رسمي (Gym): Vice Seven Condominiums Gym",
       "title_en": "Vice Seven Condominiums Gym",
       "category": "safehouses",
@@ -978,7 +978,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089597",
+      "id": "loc_52",
       "title_ar": "نادي رياضي رسمي (Gym): Grand Majestic Gym",
       "title_en": "Grand Majestic Gym",
       "category": "safehouses",
@@ -997,7 +997,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089598",
+      "id": "loc_53",
       "title_ar": "نادي رياضي رسمي (Gym): Dynamix Fitness",
       "title_en": "Dynamix Fitness",
       "category": "safehouses",
@@ -1016,7 +1016,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089599",
+      "id": "loc_54",
       "title_ar": "نادي رياضي رسمي (Gym): Venus Fitness",
       "title_en": "Venus Fitness",
       "category": "safehouses",
@@ -1035,7 +1035,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089600",
+      "id": "loc_55",
       "title_ar": "نادي رياضي رسمي (Gym): Muscle Sands",
       "title_en": "Muscle Sands",
       "category": "safehouses",
@@ -1054,7 +1054,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089601",
+      "id": "loc_56",
       "title_ar": "نادي رياضي رسمي (Gym): Ajax Gym / Lawton Theater",
       "title_en": "Ajax Gym / Lawton Theater",
       "category": "safehouses",
@@ -1073,7 +1073,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/challenges-thumb-1795450529259.jpg"
     },
     {
-      "id": "ign_1089604",
+      "id": "loc_57",
       "title_ar": "نادي ترفيهي رسمي (Club): The Vault",
       "title_en": "The Vault",
       "category": "exploration",
@@ -1092,7 +1092,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-the-zaffre-knife-flight-3-1795450814533.png"
     },
     {
-      "id": "ign_1089605",
+      "id": "loc_58",
       "title_ar": "نادي ترفيهي رسمي (Club): NINE1NINE",
       "title_en": "NINE1NINE",
       "category": "exploration",
@@ -1111,7 +1111,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-the-zaffre-knife-flight-3-1795450814533.png"
     },
     {
-      "id": "ign_1089606",
+      "id": "loc_59",
       "title_ar": "نادي ترفيهي رسمي (Club): Jack of Hearts",
       "title_en": "Jack of Hearts",
       "category": "exploration",
@@ -1130,7 +1130,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-the-zaffre-knife-flight-3-1795450814533.png"
     },
     {
-      "id": "ign_1089607",
+      "id": "loc_60",
       "title_ar": "نادي ترفيهي رسمي (Club): The Rusty Anchor",
       "title_en": "The Rusty Anchor",
       "category": "exploration",
@@ -1149,7 +1149,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-the-zaffre-knife-flight-3-1795450814533.png"
     },
     {
-      "id": "ign_1089608",
+      "id": "loc_61",
       "title_ar": "نادي ترفيهي رسمي (Club): Delights Cabaret",
       "title_en": "Delights Cabaret",
       "category": "exploration",
@@ -1168,7 +1168,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-the-zaffre-knife-flight-3-1795450814533.png"
     },
     {
-      "id": "ign_1090000",
+      "id": "loc_62",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Tequesta Guns & Ammo",
       "title_en": "Tequesta Guns & Ammo",
       "category": "weapons",
@@ -1187,7 +1187,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090001",
+      "id": "loc_63",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Gellhorn Outfitters",
       "title_en": "Gellhorn Outfitters",
       "category": "weapons",
@@ -1206,7 +1206,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090002",
+      "id": "loc_64",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Biff's Gun Supply",
       "title_en": "Biff's Gun Supply",
       "category": "weapons",
@@ -1225,7 +1225,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090003",
+      "id": "loc_65",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Tactical Outlet Guns",
       "title_en": "Tactical Outlet Guns",
       "category": "weapons",
@@ -1244,7 +1244,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090004",
+      "id": "loc_66",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Jackson Firearms",
       "title_en": "Jackson Firearms",
       "category": "weapons",
@@ -1263,7 +1263,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090005",
+      "id": "loc_67",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Richardson Hunting Supplies",
       "title_en": "Richardson Hunting Supplies",
       "category": "weapons",
@@ -1282,7 +1282,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090006",
+      "id": "loc_68",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Quickscope",
       "title_en": "Quickscope",
       "category": "weapons",
@@ -1301,7 +1301,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090007",
+      "id": "loc_69",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Vice City Firearms",
       "title_en": "Vice City Firearms",
       "category": "weapons",
@@ -1320,7 +1320,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090008",
+      "id": "loc_70",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Barrage Gun Supply",
       "title_en": "Barrage Gun Supply",
       "category": "weapons",
@@ -1339,7 +1339,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090009",
+      "id": "loc_71",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Chuck's Tackle & Shot",
       "title_en": "Chuck's Tackle & Shot",
       "category": "weapons",
@@ -1358,7 +1358,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090010",
+      "id": "loc_72",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Woodhatch",
       "title_en": "Woodhatch",
       "category": "weapons",
@@ -1377,7 +1377,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090011",
+      "id": "loc_73",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Black Eagle",
       "title_en": "Black Eagle",
       "category": "weapons",
@@ -1396,7 +1396,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090012",
+      "id": "loc_74",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Phil's Ammu-Nation",
       "title_en": "Phil's Ammu-Nation",
       "category": "weapons",
@@ -1415,7 +1415,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090013",
+      "id": "loc_75",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Big Shots",
       "title_en": "Big Shots",
       "category": "weapons",
@@ -1434,7 +1434,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090014",
+      "id": "loc_76",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Iron & Oak",
       "title_en": "Iron & Oak",
       "category": "weapons",
@@ -1453,7 +1453,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090015",
+      "id": "loc_77",
       "title_ar": "متجر أسلحة رسمي (Ammu-Nation): Prestige Firearms",
       "title_en": "Prestige Firearms",
       "category": "weapons",
@@ -1472,7 +1472,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/1-weapons-1795450559073.jpg"
     },
     {
-      "id": "ign_1090334",
+      "id": "loc_78",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Bluegrass Antenna Mast Base Jump",
       "title_en": "Bluegrass Antenna Mast Base Jump",
       "category": "activities",
@@ -1491,7 +1491,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090335",
+      "id": "loc_79",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Pike Financial Center Base Jump",
       "title_en": "Pike Financial Center Base Jump",
       "category": "activities",
@@ -1510,7 +1510,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090336",
+      "id": "loc_80",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Heath Bank Base Jump",
       "title_en": "Heath Bank Base Jump",
       "category": "activities",
@@ -1529,7 +1529,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090337",
+      "id": "loc_81",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Vice Civic Center Base Jump",
       "title_en": "Vice Civic Center Base Jump",
       "category": "activities",
@@ -1548,7 +1548,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090338",
+      "id": "loc_82",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Crimson Palms Base Jump",
       "title_en": "Crimson Palms Base Jump",
       "category": "activities",
@@ -1567,7 +1567,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090339",
+      "id": "loc_83",
       "title_ar": "قفزة مظلية رسمية (Base Jump): La Villette Base Jump",
       "title_en": "La Villette Base Jump",
       "category": "activities",
@@ -1586,7 +1586,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090340",
+      "id": "loc_84",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Kalaga Outcrop Base Jump",
       "title_en": "Kalaga Outcrop Base Jump",
       "category": "activities",
@@ -1605,7 +1605,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1090341",
+      "id": "loc_85",
       "title_ar": "قفزة مظلية رسمية (Base Jump): Mount Kalaga Base Jump",
       "title_en": "Mount Kalaga Base Jump",
       "category": "activities",
@@ -1624,7 +1624,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-bluegrass-antenna-mast-base-jump-1795450854089.png"
     },
     {
-      "id": "ign_1091086",
+      "id": "loc_86",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): 7th Avenue Garage",
       "title_en": "7th Avenue Garage",
       "category": "safehouses",
@@ -1643,7 +1643,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091087",
+      "id": "loc_87",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Atlantic Court Garage",
       "title_en": "Atlantic Court Garage",
       "category": "safehouses",
@@ -1662,7 +1662,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091088",
+      "id": "loc_88",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Bonita Court Garage",
       "title_en": "Bonita Court Garage",
       "category": "safehouses",
@@ -1681,7 +1681,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091089",
+      "id": "loc_89",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Persistence Road Garage",
       "title_en": "Persistence Road Garage",
       "category": "safehouses",
@@ -1700,7 +1700,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091090",
+      "id": "loc_90",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Wyatt Motors",
       "title_en": "Wyatt Motors",
       "category": "safehouses",
@@ -1719,7 +1719,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091091",
+      "id": "loc_91",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Store n' Bolt",
       "title_en": "Store n' Bolt",
       "category": "safehouses",
@@ -1738,7 +1738,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091092",
+      "id": "loc_92",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Vela Rota Drive Garage",
       "title_en": "Vela Rota Drive Garage",
       "category": "safehouses",
@@ -1757,7 +1757,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091093",
+      "id": "loc_93",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Mitchel Auto Center",
       "title_en": "Mitchel Auto Center",
       "category": "safehouses",
@@ -1776,7 +1776,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1096672",
+      "id": "loc_94",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Domestic Timbers",
       "title_en": "Domestic Timbers",
       "category": "safehouses",
@@ -1795,7 +1795,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1096673",
+      "id": "loc_95",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Scuttlebutt Drive Garage",
       "title_en": "Scuttlebutt Drive Garage",
       "category": "safehouses",
@@ -1814,7 +1814,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1096674",
+      "id": "loc_96",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Paradise Garage",
       "title_en": "Paradise Garage",
       "category": "safehouses",
@@ -1833,7 +1833,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1096675",
+      "id": "loc_97",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Caledonia Boulevard Garage",
       "title_en": "Caledonia Boulevard Garage",
       "category": "safehouses",
@@ -1852,7 +1852,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1096676",
+      "id": "loc_98",
       "title_ar": "كراج وعقار قابل للشراء (Purchasable Garage): Shore Court Garage",
       "title_en": "Shore Court Garage",
       "category": "safehouses",
@@ -1871,7 +1871,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/gta6-starlet-motel-construction-stunt-jump-1795450672739.png"
     },
     {
-      "id": "ign_1091630",
+      "id": "loc_99",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Gellhorn Fun Fair",
       "title_en": "Gellhorn Fun Fair",
       "category": "exploration",
@@ -1890,7 +1890,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091632",
+      "id": "loc_100",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Hoffman Observatory",
       "title_en": "Hoffman Observatory",
       "category": "exploration",
@@ -1909,7 +1909,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091633",
+      "id": "loc_101",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Old Goliath",
       "title_en": "Old Goliath",
       "category": "exploration",
@@ -1928,7 +1928,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091635",
+      "id": "loc_102",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Farmer Scrumpy's Apple Orchard",
       "title_en": "Farmer Scrumpy's Apple Orchard",
       "category": "exploration",
@@ -1947,7 +1947,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091636",
+      "id": "loc_103",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Aqua Stadium",
       "title_en": "Aqua Stadium",
       "category": "exploration",
@@ -1966,7 +1966,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091637",
+      "id": "loc_104",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Badger R&D Tower",
       "title_en": "Badger R&D Tower",
       "category": "exploration",
@@ -1985,7 +1985,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091639",
+      "id": "loc_105",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Belpoint Lighthouse",
       "title_en": "Belpoint Lighthouse",
       "category": "exploration",
@@ -2004,7 +2004,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091641",
+      "id": "loc_106",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Unidentified Building",
       "title_en": "Unidentified Building",
       "category": "exploration",
@@ -2023,7 +2023,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091642",
+      "id": "loc_107",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Derelict Spy Vessel",
       "title_en": "Derelict Spy Vessel",
       "category": "exploration",
@@ -2042,7 +2042,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091643",
+      "id": "loc_108",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Sahara Arena",
       "title_en": "Sahara Arena",
       "category": "exploration",
@@ -2061,7 +2061,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091644",
+      "id": "loc_109",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Thicc Herbie",
       "title_en": "Thicc Herbie",
       "category": "exploration",
@@ -2080,7 +2080,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091646",
+      "id": "loc_110",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Bobcat Key Experimental Home",
       "title_en": "Bobcat Key Experimental Home",
       "category": "exploration",
@@ -2099,7 +2099,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091650",
+      "id": "loc_111",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Howe Dairy Farm's Big Udder",
       "title_en": "Howe Dairy Farm's Big Udder",
       "category": "exploration",
@@ -2118,7 +2118,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091654",
+      "id": "loc_112",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Dock Ring",
       "title_en": "Dock Ring",
       "category": "exploration",
@@ -2137,7 +2137,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091658",
+      "id": "loc_113",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Bonanza Giant",
       "title_en": "Bonanza Giant",
       "category": "exploration",
@@ -2156,7 +2156,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091662",
+      "id": "loc_114",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): Sky Ride",
       "title_en": "Sky Ride",
       "category": "exploration",
@@ -2175,7 +2175,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091669",
+      "id": "loc_115",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): IAA's Friends of Freedom",
       "title_en": "IAA's Friends of Freedom",
       "category": "exploration",
@@ -2194,7 +2194,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091671",
+      "id": "loc_116",
       "title_ar": "مَعلم استكشافي رسمي (WAiNK Landmark): St. Lucia Lighthouse",
       "title_en": "St. Lucia Lighthouse",
       "category": "exploration",
@@ -2213,7 +2213,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091631",
+      "id": "loc_117",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Hovercraft Crash",
       "title_en": "Hovercraft Crash",
       "category": "exploration",
@@ -2232,7 +2232,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091638",
+      "id": "loc_118",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Wreck of the Meerwunder",
       "title_en": "Wreck of the Meerwunder",
       "category": "exploration",
@@ -2251,7 +2251,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091640",
+      "id": "loc_119",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Anti Sugar Residence",
       "title_en": "Anti Sugar Residence",
       "category": "exploration",
@@ -2270,7 +2270,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091647",
+      "id": "loc_120",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Camp Moonflower",
       "title_en": "Camp Moonflower",
       "category": "exploration",
@@ -2289,7 +2289,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091648",
+      "id": "loc_121",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Grayson Assembly",
       "title_en": "Grayson Assembly",
       "category": "exploration",
@@ -2308,7 +2308,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091651",
+      "id": "loc_122",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Dead Sharks",
       "title_en": "Dead Sharks",
       "category": "exploration",
@@ -2327,7 +2327,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091652",
+      "id": "loc_123",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Fossilized Prints",
       "title_en": "Fossilized Prints",
       "category": "exploration",
@@ -2346,7 +2346,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091653",
+      "id": "loc_124",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Dino Golf",
       "title_en": "Dino Golf",
       "category": "exploration",
@@ -2365,7 +2365,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091655",
+      "id": "loc_125",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Beach Party Site",
       "title_en": "Beach Party Site",
       "category": "exploration",
@@ -2384,7 +2384,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091657",
+      "id": "loc_126",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Fairy Lane",
       "title_en": "Fairy Lane",
       "category": "exploration",
@@ -2403,7 +2403,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091659",
+      "id": "loc_127",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Mermaid Display",
       "title_en": "Mermaid Display",
       "category": "exploration",
@@ -2422,7 +2422,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091660",
+      "id": "loc_128",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Imperial Spanish Ruins",
       "title_en": "Imperial Spanish Ruins",
       "category": "exploration",
@@ -2441,7 +2441,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091664",
+      "id": "loc_129",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Intriguing Substance",
       "title_en": "Intriguing Substance",
       "category": "exploration",
@@ -2460,7 +2460,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091665",
+      "id": "loc_130",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Halloween House",
       "title_en": "Halloween House",
       "category": "exploration",
@@ -2479,7 +2479,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091666",
+      "id": "loc_131",
       "title_ar": "موقع غامض وظاهرة (WAiNK Curiosity): Christmas House",
       "title_en": "Christmas House",
       "category": "exploration",
@@ -2498,7 +2498,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/waink-billboard-1795450406687.png"
     },
     {
-      "id": "ign_1091634",
+      "id": "loc_132",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Large Lure",
       "title_en": "Large Lure",
       "category": "exploration",
@@ -2517,7 +2517,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091645",
+      "id": "loc_133",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Neptune Rises",
       "title_en": "Neptune Rises",
       "category": "exploration",
@@ -2536,7 +2536,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091649",
+      "id": "loc_134",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Leonida Snow",
       "title_en": "Leonida Snow",
       "category": "exploration",
@@ -2555,7 +2555,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091656",
+      "id": "loc_135",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Vice Museum of Art Sculpture",
       "title_en": "Vice Museum of Art Sculpture",
       "category": "exploration",
@@ -2574,7 +2574,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091661",
+      "id": "loc_136",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Pixel Fountain",
       "title_en": "Pixel Fountain",
       "category": "exploration",
@@ -2593,7 +2593,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091663",
+      "id": "loc_137",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Grassrivers Visitor Center Status",
       "title_en": "Grassrivers Visitor Center Status",
       "category": "exploration",
@@ -2612,7 +2612,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091667",
+      "id": "loc_138",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Junkyard T-Rex",
       "title_en": "Junkyard T-Rex",
       "category": "exploration",
@@ -2631,7 +2631,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091672",
+      "id": "loc_139",
       "title_ar": "تمثال ونصب فني (WAiNK Sculpture): Fatal Incursion Plaque",
       "title_en": "Fatal Incursion Plaque",
       "category": "exploration",
@@ -2650,7 +2650,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1090284",
+      "id": "loc_140",
       "title_ar": "عميل ومهمة اتصال (Contact): Randy",
       "title_en": "Randy",
       "category": "strangers",
@@ -2669,7 +2669,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090285",
+      "id": "loc_141",
       "title_ar": "عميل ومهمة اتصال (Contact): Moses",
       "title_en": "Moses",
       "category": "strangers",
@@ -2688,7 +2688,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090286",
+      "id": "loc_142",
       "title_ar": "عميل ومهمة اتصال (Contact): Yasmani",
       "title_en": "Yasmani",
       "category": "strangers",
@@ -2707,7 +2707,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090287",
+      "id": "loc_143",
       "title_ar": "عميل ومهمة اتصال (Contact): Tyrone",
       "title_en": "Tyrone",
       "category": "strangers",
@@ -2726,7 +2726,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090288",
+      "id": "loc_144",
       "title_ar": "عميل ومهمة اتصال (Contact): Dunk's Trailer",
       "title_en": "Dunk's Trailer",
       "category": "strangers",
@@ -2745,7 +2745,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090289",
+      "id": "loc_145",
       "title_ar": "عميل ومهمة اتصال (Contact): Kenton",
       "title_en": "Kenton",
       "category": "strangers",
@@ -2764,7 +2764,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090290",
+      "id": "loc_146",
       "title_ar": "عميل ومهمة اتصال (Contact): Brian's Lockup",
       "title_en": "Brian's Lockup",
       "category": "strangers",
@@ -2783,7 +2783,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090291",
+      "id": "loc_147",
       "title_ar": "عميل ومهمة اتصال (Contact): Killtelligence Provisions",
       "title_en": "Killtelligence Provisions",
       "category": "strangers",
@@ -2802,7 +2802,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090295",
+      "id": "loc_148",
       "title_ar": "عميل ومهمة اتصال (Contact): Donnie's Trailer",
       "title_en": "Donnie's Trailer",
       "category": "strangers",
@@ -2821,7 +2821,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090298",
+      "id": "loc_149",
       "title_ar": "عميل ومهمة اتصال (Contact): Pete",
       "title_en": "Pete",
       "category": "strangers",
@@ -2840,7 +2840,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/optional-missions-1795386127895.jpg"
     },
     {
-      "id": "ign_1090292",
+      "id": "loc_150",
       "title_ar": "خزنة أموال مخفية (Safe): Office Safe - Sunrise RV Park",
       "title_en": "Office Safe - Sunrise RV Park",
       "category": "collectibles",
@@ -2859,7 +2859,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090293",
+      "id": "loc_151",
       "title_ar": "خزنة أموال مخفية (Safe): Dock Warehouse Safe - Sunset RV Park",
       "title_en": "Dock Warehouse Safe - Sunset RV Park",
       "category": "collectibles",
@@ -2878,7 +2878,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090294",
+      "id": "loc_152",
       "title_ar": "خزنة أموال مخفية (Safe): Garage Safe - Nova Auto Junkyard",
       "title_en": "Garage Safe - Nova Auto Junkyard",
       "category": "collectibles",
@@ -2897,7 +2897,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090296",
+      "id": "loc_153",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Manatee Motel",
       "title_en": "Safe - Manatee Motel",
       "category": "collectibles",
@@ -2916,7 +2916,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090297",
+      "id": "loc_154",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Watson Bay Safe House",
       "title_en": "Safe - Watson Bay Safe House",
       "category": "collectibles",
@@ -2935,7 +2935,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090299",
+      "id": "loc_155",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Palmer Fishing Warehouse",
       "title_en": "Safe - Palmer Fishing Warehouse",
       "category": "collectibles",
@@ -2954,7 +2954,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090300",
+      "id": "loc_156",
       "title_ar": "خزنة أموال مخفية (Safe): Locked Safe - Mill Station Radar Base",
       "title_en": "Locked Safe - Mill Station Radar Base",
       "category": "collectibles",
@@ -2973,7 +2973,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090301",
+      "id": "loc_157",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Exotic Animal Front",
       "title_en": "Safe - Exotic Animal Front",
       "category": "collectibles",
@@ -2992,7 +2992,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090302",
+      "id": "loc_158",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Illegal Goods Store",
       "title_en": "Safe - Illegal Goods Store",
       "category": "collectibles",
@@ -3011,7 +3011,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090303",
+      "id": "loc_159",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Slator Towing Inc",
       "title_en": "Safe - Slator Towing Inc",
       "category": "collectibles",
@@ -3030,7 +3030,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090304",
+      "id": "loc_160",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Industrial Weed Grow",
       "title_en": "Safe - Industrial Weed Grow",
       "category": "collectibles",
@@ -3049,7 +3049,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090305",
+      "id": "loc_161",
       "title_ar": "خزنة أموال مخفية (Safe): Office Safe - Saber Shipping Facility",
       "title_en": "Office Safe - Saber Shipping Facility",
       "category": "collectibles",
@@ -3068,7 +3068,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090306",
+      "id": "loc_162",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Casa Guardia",
       "title_en": "Safe - Casa Guardia",
       "category": "collectibles",
@@ -3087,7 +3087,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090307",
+      "id": "loc_163",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Saber Shipping Facility",
       "title_en": "Safe - Saber Shipping Facility",
       "category": "collectibles",
@@ -3106,7 +3106,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090308",
+      "id": "loc_164",
       "title_ar": "خزنة أموال مخفية (Safe): Safe - Parlor Apartments",
       "title_en": "Safe - Parlor Apartments",
       "category": "collectibles",
@@ -3125,7 +3125,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1090309",
+      "id": "loc_165",
       "title_ar": "خزنة أموال مخفية (Safe): Office Safe - Chatfield Storage & Logistics",
       "title_en": "Office Safe - Chatfield Storage & Logistics",
       "category": "collectibles",
@@ -3144,7 +3144,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091719",
+      "id": "loc_166",
       "title_ar": "تحدي سباق الزمن (Racing Challenge): Ambrosia Raceway - Raceway Trial",
       "title_en": "Ambrosia Raceway - Raceway Trial",
       "category": "activities",
@@ -3163,7 +3163,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091720",
+      "id": "loc_167",
       "title_ar": "تحدي سباق الزمن (Racing Challenge): Gellhorn Raceway - Dragway Trial",
       "title_en": "Gellhorn Raceway - Dragway Trial",
       "category": "activities",
@@ -3182,7 +3182,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091722",
+      "id": "loc_168",
       "title_ar": "تحدي سباق الزمن (Racing Challenge): Gellhorn Raceway - Raceway Trial",
       "title_en": "Gellhorn Raceway - Raceway Trial",
       "category": "activities",
@@ -3201,7 +3201,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091723",
+      "id": "loc_169",
       "title_ar": "تحدي سباق الزمن (Racing Challenge): Hamlet - BMX Stunt Run",
       "title_en": "Hamlet - BMX Stunt Run",
       "category": "activities",
@@ -3220,7 +3220,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091724",
+      "id": "loc_170",
       "title_ar": "تحدي سباق الزمن (Racing Challenge): Boone Speedway - Speedway Trial",
       "title_en": "Boone Speedway - Speedway Trial",
       "category": "activities",
@@ -3239,7 +3239,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091725",
+      "id": "loc_171",
       "title_ar": "تحدي سباق الزمن (Racing Challenge): Mount Kalaga - Cycling Trial",
       "title_en": "Mount Kalaga - Cycling Trial",
       "category": "activities",
@@ -3258,7 +3258,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091755",
+      "id": "loc_172",
       "title_ar": "سباق نادي الطين (Thrillbilly Mud Club): Thrillbilly Mud Club - Trash Dash",
       "title_en": "Thrillbilly Mud Club - Trash Dash",
       "category": "activities",
@@ -3277,7 +3277,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091756",
+      "id": "loc_173",
       "title_ar": "سباق نادي الطين (Thrillbilly Mud Club): Thrillbilly Mud Club - Sludge Rush",
       "title_en": "Thrillbilly Mud Club - Sludge Rush",
       "category": "activities",
@@ -3296,7 +3296,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091757",
+      "id": "loc_174",
       "title_ar": "سباق نادي الطين (Thrillbilly Mud Club): Thrillbilly Mud Club - Dirt Slam",
       "title_en": "Thrillbilly Mud Club - Dirt Slam",
       "category": "activities",
@@ -3315,7 +3315,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091758",
+      "id": "loc_175",
       "title_ar": "سباق نادي الطين (Thrillbilly Mud Club): Thrillbilly Mud Club - Muck Scramble",
       "title_en": "Thrillbilly Mud Club - Muck Scramble",
       "category": "activities",
@@ -3334,7 +3334,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091759",
+      "id": "loc_176",
       "title_ar": "سباق نادي الطين (Thrillbilly Mud Club): Thrillbilly Mud Club - Hog Hustle",
       "title_en": "Thrillbilly Mud Club - Hog Hustle",
       "category": "activities",
@@ -3353,7 +3353,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091760",
+      "id": "loc_177",
       "title_ar": "سباق نادي الطين (Thrillbilly Mud Club): Thrillbilly Mud Club - Big Mud",
       "title_en": "Thrillbilly Mud Club - Big Mud",
       "category": "activities",
@@ -3372,7 +3372,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091745",
+      "id": "loc_178",
       "title_ar": "سباق حلبة هاملت (Hamlet Boone Speedway): Boone Speedway - Oval",
       "title_en": "Boone Speedway - Oval",
       "category": "activities",
@@ -3391,7 +3391,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091746",
+      "id": "loc_179",
       "title_ar": "سباق حلبة هاملت (Hamlet Boone Speedway): Boone Speedway - Figure 8",
       "title_en": "Boone Speedway - Figure 8",
       "category": "activities",
@@ -3410,7 +3410,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091733",
+      "id": "loc_180",
       "title_ar": "سباق حلبة أمبروزيا (Ambrosia Raceway): Ambrosia Raceway - Oval",
       "title_en": "Ambrosia Raceway - Oval",
       "category": "activities",
@@ -3429,7 +3429,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091734",
+      "id": "loc_181",
       "title_ar": "سباق حلبة أمبروزيا (Ambrosia Raceway): Ambrosia Raceway - Figure 8",
       "title_en": "Ambrosia Raceway - Figure 8",
       "category": "activities",
@@ -3448,7 +3448,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091735",
+      "id": "loc_182",
       "title_ar": "سباق حلبة غيلهورن (Gellhorn Raceway): Gellhorn Raceway - Basic Loop",
       "title_en": "Gellhorn Raceway - Basic Loop",
       "category": "activities",
@@ -3467,7 +3467,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091736",
+      "id": "loc_183",
       "title_ar": "سباق حلبة غيلهورن (Gellhorn Raceway): Gellhorn Raceway - Short Loop",
       "title_en": "Gellhorn Raceway - Short Loop",
       "category": "activities",
@@ -3486,7 +3486,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091737",
+      "id": "loc_184",
       "title_ar": "سباق حلبة غيلهورن (Gellhorn Raceway): Gellhorn Raceway - Intermediate Loop CCW",
       "title_en": "Gellhorn Raceway - Intermediate Loop CCW",
       "category": "activities",
@@ -3505,7 +3505,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091738",
+      "id": "loc_185",
       "title_ar": "سباق حلبة غيلهورن (Gellhorn Raceway): Gellhorn Raceway - Long Loop",
       "title_en": "Gellhorn Raceway - Long Loop",
       "category": "activities",
@@ -3524,7 +3524,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091739",
+      "id": "loc_186",
       "title_ar": "سباق حلبة غيلهورن (Gellhorn Raceway): Gellhorn Raceway - Short Loop CCW",
       "title_en": "Gellhorn Raceway - Short Loop CCW",
       "category": "activities",
@@ -3543,7 +3543,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/unique-races-1795450478740.jpg"
     },
     {
-      "id": "ign_1091814",
+      "id": "loc_187",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 1",
       "title_en": "Book Swap 1",
       "category": "collectibles",
@@ -3562,7 +3562,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091815",
+      "id": "loc_188",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 2",
       "title_en": "Book Swap 2",
       "category": "collectibles",
@@ -3581,7 +3581,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091816",
+      "id": "loc_189",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 3",
       "title_en": "Book Swap 3",
       "category": "collectibles",
@@ -3600,7 +3600,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091817",
+      "id": "loc_190",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 4",
       "title_en": "Book Swap 4",
       "category": "collectibles",
@@ -3619,7 +3619,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091818",
+      "id": "loc_191",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 5",
       "title_en": "Book Swap 5",
       "category": "collectibles",
@@ -3638,7 +3638,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091819",
+      "id": "loc_192",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 6",
       "title_en": "Book Swap 6",
       "category": "collectibles",
@@ -3657,7 +3657,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091820",
+      "id": "loc_193",
       "title_ar": "تبادل الكتب النادرة (Book Swap): Book Swap 7",
       "title_en": "Book Swap 7",
       "category": "collectibles",
@@ -3676,7 +3676,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091098",
+      "id": "loc_194",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): LCC Midnight Sun Avarus",
       "title_en": "LCC Midnight Sun Avarus",
       "category": "vehicles",
@@ -3695,7 +3695,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091099",
+      "id": "loc_195",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Declasse Ghosts Exposed Parkland",
       "title_en": "Declasse Ghosts Exposed Parkland",
       "category": "vehicles",
@@ -3714,7 +3714,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091100",
+      "id": "loc_196",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Airgator Dr Sheehan's Airboat",
       "title_en": "Airgator Dr Sheehan's Airboat",
       "category": "vehicles",
@@ -3733,7 +3733,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091101",
+      "id": "loc_197",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Airgator Naughty Boy Airboat",
       "title_en": "Airgator Naughty Boy Airboat",
       "category": "vehicles",
@@ -3752,7 +3752,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091102",
+      "id": "loc_198",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Declasse Cousin Carlo's Akane",
       "title_en": "Declasse Cousin Carlo's Akane",
       "category": "vehicles",
@@ -3771,7 +3771,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091103",
+      "id": "loc_199",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Seashark Westbound Azure",
       "title_en": "Seashark Westbound Azure",
       "category": "vehicles",
@@ -3790,7 +3790,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091104",
+      "id": "loc_200",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): BF Sludge Wraith Injection",
       "title_en": "BF Sludge Wraith Injection",
       "category": "vehicles",
@@ -3809,7 +3809,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091105",
+      "id": "loc_201",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Tuff Immortal BMX",
       "title_en": "Tuff Immortal BMX",
       "category": "vehicles",
@@ -3828,7 +3828,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091106",
+      "id": "loc_202",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): BF Blood Moon Bandito",
       "title_en": "BF Blood Moon Bandito",
       "category": "vehicles",
@@ -3847,7 +3847,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091107",
+      "id": "loc_203",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Bravado Bison 1800",
       "title_en": "Bravado Bison 1800",
       "category": "vehicles",
@@ -3866,7 +3866,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091108",
+      "id": "loc_204",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Mer-Can Blast",
       "title_en": "Mer-Can Blast",
       "category": "vehicles",
@@ -3885,7 +3885,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091109",
+      "id": "loc_205",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Brute Cherry Popper Boxville",
       "title_en": "Brute Cherry Popper Boxville",
       "category": "vehicles",
@@ -3904,7 +3904,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091110",
+      "id": "loc_206",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Brute Boxville",
       "title_en": "Brute Boxville",
       "category": "vehicles",
@@ -3923,7 +3923,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091111",
+      "id": "loc_207",
       "title_ar": "مركبة نادرة خاصة (Standout Vehicle): Declasse Bugstars Burrito",
       "title_en": "Declasse Bugstars Burrito",
       "category": "vehicles",
@@ -3942,7 +3942,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091163",
+      "id": "loc_208",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Granforma Zorrusso",
       "title_en": "Granforma Zorrusso",
       "category": "vehicles",
@@ -3961,7 +3961,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091164",
+      "id": "loc_209",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Pegassi '96 Infernus",
       "title_en": "Pegassi '96 Infernus",
       "category": "vehicles",
@@ -3980,7 +3980,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091165",
+      "id": "loc_210",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Invetero Coquette D10",
       "title_en": "Invetero Coquette D10",
       "category": "vehicles",
@@ -3999,7 +3999,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091166",
+      "id": "loc_211",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Pegassi Vitello",
       "title_en": "Pegassi Vitello",
       "category": "vehicles",
@@ -4018,7 +4018,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091167",
+      "id": "loc_212",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Bravado Banshee",
       "title_en": "Bravado Banshee",
       "category": "vehicles",
@@ -4037,7 +4037,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091168",
+      "id": "loc_213",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Ascot Paragon",
       "title_en": "Ascot Paragon",
       "category": "vehicles",
@@ -4056,7 +4056,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091169",
+      "id": "loc_214",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Piccia Furia",
       "title_en": "Piccia Furia",
       "category": "vehicles",
@@ -4075,7 +4075,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091170",
+      "id": "loc_215",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Bravado Gauntlet Hellfire",
       "title_en": "Bravado Gauntlet Hellfire",
       "category": "vehicles",
@@ -4094,7 +4094,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091171",
+      "id": "loc_216",
       "title_ar": "سيارة مطلوبة لـ راندي (Randy Vehicle): Pegassi Tempesta",
       "title_en": "Pegassi Tempesta",
       "category": "vehicles",
@@ -4113,7 +4113,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091172",
+      "id": "loc_217",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): Declasse Yosemite 1500",
       "title_en": "Declasse Yosemite 1500",
       "category": "vehicles",
@@ -4132,7 +4132,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091173",
+      "id": "loc_218",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): Karin '85 Futo",
       "title_en": "Karin '85 Futo",
       "category": "vehicles",
@@ -4151,7 +4151,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091183",
+      "id": "loc_219",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): Canis '82 Crawler",
       "title_en": "Canis '82 Crawler",
       "category": "vehicles",
@@ -4170,7 +4170,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091184",
+      "id": "loc_220",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): Declasse '74 Vamos",
       "title_en": "Declasse '74 Vamos",
       "category": "vehicles",
@@ -4189,7 +4189,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091185",
+      "id": "loc_221",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): Annis '95 Hellion",
       "title_en": "Annis '95 Hellion",
       "category": "vehicles",
@@ -4208,7 +4208,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091186",
+      "id": "loc_222",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): Western Nightblade",
       "title_en": "Western Nightblade",
       "category": "vehicles",
@@ -4227,7 +4227,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1091187",
+      "id": "loc_223",
       "title_ar": "سيارة مطلوبة لـ موزس (Moses Vehicle): BF '77 Bandito",
       "title_en": "BF '77 Bandito",
       "category": "vehicles",
@@ -4246,7 +4246,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/jason-and-lucia-20-1795450603693.jpg"
     },
     {
-      "id": "ign_1089609",
+      "id": "loc_224",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - American Eel",
       "title_en": "Hotspot - American Eel",
       "category": "underwater",
@@ -4265,7 +4265,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089610",
+      "id": "loc_225",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Atlantic Herring",
       "title_en": "Hotspot - Atlantic Herring",
       "category": "underwater",
@@ -4284,7 +4284,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089611",
+      "id": "loc_226",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Atlantic Spadefish",
       "title_en": "Hotspot - Atlantic Spadefish",
       "category": "underwater",
@@ -4303,7 +4303,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089612",
+      "id": "loc_227",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Atlantic Tarpon",
       "title_en": "Hotspot - Atlantic Tarpon",
       "category": "underwater",
@@ -4322,7 +4322,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089613",
+      "id": "loc_228",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Black Drum",
       "title_en": "Hotspot - Black Drum",
       "category": "underwater",
@@ -4341,7 +4341,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089614",
+      "id": "loc_229",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Black Grouper",
       "title_en": "Hotspot - Black Grouper",
       "category": "underwater",
@@ -4360,7 +4360,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089615",
+      "id": "loc_230",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Blue Striped Grunt",
       "title_en": "Hotspot - Blue Striped Grunt",
       "category": "underwater",
@@ -4379,7 +4379,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089616",
+      "id": "loc_231",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Bluegill",
       "title_en": "Hotspot - Bluegill",
       "category": "underwater",
@@ -4398,7 +4398,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089617",
+      "id": "loc_232",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Candy Fish",
       "title_en": "Hotspot - Candy Fish",
       "category": "underwater",
@@ -4417,7 +4417,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089618",
+      "id": "loc_233",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Channel Catfish",
       "title_en": "Hotspot - Channel Catfish",
       "category": "underwater",
@@ -4436,7 +4436,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089619",
+      "id": "loc_234",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Cobia",
       "title_en": "Hotspot - Cobia",
       "category": "underwater",
@@ -4455,7 +4455,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089620",
+      "id": "loc_235",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Common Snook",
       "title_en": "Hotspot - Common Snook",
       "category": "underwater",
@@ -4474,7 +4474,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089621",
+      "id": "loc_236",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Florida Gar",
       "title_en": "Hotspot - Florida Gar",
       "category": "underwater",
@@ -4493,7 +4493,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089622",
+      "id": "loc_237",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Great Barracuda",
       "title_en": "Hotspot - Great Barracuda",
       "category": "underwater",
@@ -4512,7 +4512,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089623",
+      "id": "loc_238",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Greater Amberjack",
       "title_en": "Hotspot - Greater Amberjack",
       "category": "underwater",
@@ -4531,7 +4531,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089624",
+      "id": "loc_239",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Green Moray Eel",
       "title_en": "Hotspot - Green Moray Eel",
       "category": "underwater",
@@ -4550,7 +4550,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089625",
+      "id": "loc_240",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Hogfish",
       "title_en": "Hotspot - Hogfish",
       "category": "underwater",
@@ -4569,7 +4569,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089626",
+      "id": "loc_241",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Lake Chubsucker",
       "title_en": "Hotspot - Lake Chubsucker",
       "category": "underwater",
@@ -4588,7 +4588,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089627",
+      "id": "loc_242",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Largemouth Bass",
       "title_en": "Hotspot - Largemouth Bass",
       "category": "underwater",
@@ -4607,7 +4607,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089628",
+      "id": "loc_243",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Littlehead Porgy",
       "title_en": "Hotspot - Littlehead Porgy",
       "category": "underwater",
@@ -4626,7 +4626,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089629",
+      "id": "loc_244",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Mahi-Mahi",
       "title_en": "Hotspot - Mahi-Mahi",
       "category": "underwater",
@@ -4645,7 +4645,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1089630",
+      "id": "loc_245",
       "title_ar": "موقع صيد وأعماق مائية (Fishing & Underwater Hotspot): Hotspot - Permit",
       "title_en": "Hotspot - Permit",
       "category": "underwater",
@@ -4664,7 +4664,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/underwater-2-1795450033334.jpg"
     },
     {
-      "id": "ign_1091862",
+      "id": "loc_246",
       "title_ar": "بطاقة مقتنيات (Jack of Hearts Card): Brianna Blue - Deep Red",
       "title_en": "Brianna Blue - Deep Red",
       "category": "collectibles",
@@ -4683,7 +4683,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091863",
+      "id": "loc_247",
       "title_ar": "بطاقة مقتنيات (Jack of Hearts Card): Brianna Blue - Pink",
       "title_en": "Brianna Blue - Pink",
       "category": "collectibles",
@@ -4702,7 +4702,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091864",
+      "id": "loc_248",
       "title_ar": "بطاقة مقتنيات (Jack of Hearts Card): Brianna Blue - Purple",
       "title_en": "Brianna Blue - Purple",
       "category": "collectibles",
@@ -4721,7 +4721,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091865",
+      "id": "loc_249",
       "title_ar": "بطاقة مقتنيات (Jack of Hearts Card): Christel - Deep Red",
       "title_en": "Christel - Deep Red",
       "category": "collectibles",
@@ -4740,7 +4740,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091866",
+      "id": "loc_250",
       "title_ar": "بطاقة مقتنيات (Jack of Hearts Card): Christel - Pink",
       "title_en": "Christel - Pink",
       "category": "collectibles",
@@ -4759,7 +4759,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091867",
+      "id": "loc_251",
       "title_ar": "بطاقة مقتنيات (Jack of Hearts Card): Christel - Purple",
       "title_en": "Christel - Purple",
       "category": "collectibles",
@@ -4778,7 +4778,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091916",
+      "id": "loc_252",
       "title_ar": "بطاقة مقتنيات (Nine1Nine Card): Amie - Deep Red",
       "title_en": "Amie - Deep Red",
       "category": "collectibles",
@@ -4797,7 +4797,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091917",
+      "id": "loc_253",
       "title_ar": "بطاقة مقتنيات (Nine1Nine Card): Amie - Pink",
       "title_en": "Amie - Pink",
       "category": "collectibles",
@@ -4816,7 +4816,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091918",
+      "id": "loc_254",
       "title_ar": "بطاقة مقتنيات (Nine1Nine Card): Amie - Purple",
       "title_en": "Amie - Purple",
       "category": "collectibles",
@@ -4835,7 +4835,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091919",
+      "id": "loc_255",
       "title_ar": "بطاقة مقتنيات (Nine1Nine Card): Braelynn - Deep Red",
       "title_en": "Braelynn - Deep Red",
       "category": "collectibles",
@@ -4854,7 +4854,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091920",
+      "id": "loc_256",
       "title_ar": "بطاقة مقتنيات (Nine1Nine Card): Braelynn - Pink",
       "title_en": "Braelynn - Pink",
       "category": "collectibles",
@@ -4873,7 +4873,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091921",
+      "id": "loc_257",
       "title_ar": "بطاقة مقتنيات (Nine1Nine Card): Braelynn - Purple",
       "title_en": "Braelynn - Purple",
       "category": "collectibles",
@@ -4892,7 +4892,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091821",
+      "id": "loc_258",
       "title_ar": "مجلة مقتنيات نادرة (Magazine): Off the Hook 1",
       "title_en": "Off the Hook 1",
       "category": "collectibles",
@@ -4911,7 +4911,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091822",
+      "id": "loc_259",
       "title_ar": "مجلة مقتنيات نادرة (Magazine): Off the Hook 2",
       "title_en": "Off the Hook 2",
       "category": "collectibles",
@@ -4930,7 +4930,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091823",
+      "id": "loc_260",
       "title_ar": "مجلة مقتنيات نادرة (Magazine): Off the Hook 3",
       "title_en": "Off the Hook 3",
       "category": "collectibles",
@@ -4949,7 +4949,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091824",
+      "id": "loc_261",
       "title_ar": "مجلة مقتنيات نادرة (Magazine): Trigger Happy 1",
       "title_en": "Trigger Happy 1",
       "category": "collectibles",
@@ -4968,7 +4968,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091825",
+      "id": "loc_262",
       "title_ar": "مجلة مقتنيات نادرة (Magazine): Trigger Happy 2",
       "title_en": "Trigger Happy 2",
       "category": "collectibles",
@@ -4987,7 +4987,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091826",
+      "id": "loc_263",
       "title_ar": "مجلة مقتنيات نادرة (Magazine): Trigger Happy 3",
       "title_en": "Trigger Happy 3",
       "category": "collectibles",
@@ -5006,7 +5006,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/collectible-cards-1795450051694.png"
     },
     {
-      "id": "ign_1091952",
+      "id": "loc_264",
       "title_ar": "مخبأ عصابة Kingfishers (Illegal Operation): Sunrise RV Park",
       "title_en": "Sunrise RV Park",
       "category": "bunkers",
@@ -5025,7 +5025,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091953",
+      "id": "loc_265",
       "title_ar": "مخبأ عصابة Kingfishers (Illegal Operation): Manatee Hotel",
       "title_en": "Manatee Hotel",
       "category": "bunkers",
@@ -5044,7 +5044,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091954",
+      "id": "loc_266",
       "title_ar": "مخبأ عصابة Kingfishers (Illegal Operation): Fishing Shacks",
       "title_en": "Fishing Shacks",
       "category": "bunkers",
@@ -5063,7 +5063,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091955",
+      "id": "loc_267",
       "title_ar": "مخبأ Kolt & Associates (Illegal Operation): Brooks Boatworks",
       "title_en": "Brooks Boatworks",
       "category": "bunkers",
@@ -5082,7 +5082,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091956",
+      "id": "loc_268",
       "title_ar": "مخبأ Kolt & Associates (Illegal Operation): Kingpin Bowling",
       "title_en": "Kingpin Bowling",
       "category": "bunkers",
@@ -5101,7 +5101,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091957",
+      "id": "loc_269",
       "title_ar": "مخبأ Kolt & Associates (Illegal Operation): La Cascara Motel",
       "title_en": "La Cascara Motel",
       "category": "bunkers",
@@ -5120,7 +5120,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091958",
+      "id": "loc_270",
       "title_ar": "مخبأ Kolt & Associates (Illegal Operation): Stash House",
       "title_en": "Stash House",
       "category": "bunkers",
@@ -5139,7 +5139,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091960",
+      "id": "loc_271",
       "title_ar": "مخبأ عصابة M7 (Illegal Operation): Nova Auto Junkyard",
       "title_en": "Nova Auto Junkyard",
       "category": "bunkers",
@@ -5158,7 +5158,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091961",
+      "id": "loc_272",
       "title_ar": "مخبأ عصابة M7 (Illegal Operation): Weed Grow",
       "title_en": "Weed Grow",
       "category": "bunkers",
@@ -5177,7 +5177,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091962",
+      "id": "loc_273",
       "title_ar": "مخبأ La Polilla Negra (Illegal Operation): Palmer Fishing Warehouse",
       "title_en": "Palmer Fishing Warehouse",
       "category": "bunkers",
@@ -5196,7 +5196,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091963",
+      "id": "loc_274",
       "title_ar": "مخبأ La Polilla Negra (Illegal Operation): Watson Bay Safehouse",
       "title_en": "Watson Bay Safehouse",
       "category": "bunkers",
@@ -5215,7 +5215,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091964",
+      "id": "loc_275",
       "title_ar": "مخبأ عصابة Final Chapter (Illegal Operation): Hog Stars Garage",
       "title_en": "Hog Stars Garage",
       "category": "bunkers",
@@ -5234,7 +5234,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091965",
+      "id": "loc_276",
       "title_ar": "مخبأ عصابة Final Chapter (Illegal Operation): Irons Building Supply",
       "title_en": "Irons Building Supply",
       "category": "bunkers",
@@ -5253,7 +5253,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091966",
+      "id": "loc_277",
       "title_ar": "مخبأ عصابة Final Chapter (Illegal Operation): Fam Fix Meth Lab",
       "title_en": "Fam Fix Meth Lab",
       "category": "bunkers",
@@ -5272,7 +5272,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091967",
+      "id": "loc_278",
       "title_ar": "مخبأ عصابة Final Chapter (Illegal Operation): Biker Hideout",
       "title_en": "Biker Hideout",
       "category": "bunkers",
@@ -5291,7 +5291,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091968",
+      "id": "loc_279",
       "title_ar": "مخبأ عصابة San4San (Illegal Operation): La Perle Trap House",
       "title_en": "La Perle Trap House",
       "category": "bunkers",
@@ -5310,7 +5310,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091969",
+      "id": "loc_280",
       "title_ar": "مخبأ عصابة San4San (Illegal Operation): Janjak's Garage",
       "title_en": "Janjak's Garage",
       "category": "bunkers",
@@ -5329,7 +5329,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091970",
+      "id": "loc_281",
       "title_ar": "مخبأ عصابة San4San (Illegal Operation): Sound4Sound Studio",
       "title_en": "Sound4Sound Studio",
       "category": "bunkers",
@@ -5348,7 +5348,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091971",
+      "id": "loc_282",
       "title_ar": "مخبأ عصابة San4San (Illegal Operation): Parlor Apartments",
       "title_en": "Parlor Apartments",
       "category": "bunkers",
@@ -5367,7 +5367,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091973",
+      "id": "loc_283",
       "title_ar": "مخبأ عصابة PTT Youngin$ (Illegal Operation): Kamar Devon Community Center",
       "title_en": "Kamar Devon Community Center",
       "category": "bunkers",
@@ -5386,7 +5386,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091974",
+      "id": "loc_284",
       "title_ar": "مخبأ عصابة PTT Youngin$ (Illegal Operation): Southside Trap House",
       "title_en": "Southside Trap House",
       "category": "bunkers",
@@ -5405,7 +5405,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091975",
+      "id": "loc_285",
       "title_ar": "مخبأ عصابة PTT Youngin$ (Illegal Operation): Illegal Goods Store",
       "title_en": "Illegal Goods Store",
       "category": "bunkers",
@@ -5424,7 +5424,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091976",
+      "id": "loc_286",
       "title_ar": "مقر The Guardia Brothers (Illegal Operation): Saber Shipping Yard",
       "title_en": "Saber Shipping Yard",
       "category": "bunkers",
@@ -5443,7 +5443,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091977",
+      "id": "loc_287",
       "title_ar": "مقر The Guardia Brothers (Illegal Operation): Saber Shipping Facility",
       "title_en": "Saber Shipping Facility",
       "category": "bunkers",
@@ -5462,7 +5462,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091978",
+      "id": "loc_288",
       "title_ar": "مقر The Guardia Brothers (Illegal Operation): Casa Guardia",
       "title_en": "Casa Guardia",
       "category": "bunkers",
@@ -5481,7 +5481,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091979",
+      "id": "loc_289",
       "title_ar": "وكر عمليات إجرامية (Criminal Hideout): Slator Towing Inc",
       "title_en": "Slator Towing Inc",
       "category": "bunkers",
@@ -5500,7 +5500,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091980",
+      "id": "loc_290",
       "title_ar": "وكر عمليات إجرامية (Criminal Hideout): Vespucci Mansion",
       "title_en": "Vespucci Mansion",
       "category": "bunkers",
@@ -5519,7 +5519,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091981",
+      "id": "loc_291",
       "title_ar": "وكر عمليات إجرامية (Criminal Hideout): Industrial Weed Grow",
       "title_en": "Industrial Weed Grow",
       "category": "bunkers",
@@ -5538,7 +5538,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091982",
+      "id": "loc_292",
       "title_ar": "وكر عمليات إجرامية (Criminal Hideout): Leonida Carrier Warehouse",
       "title_en": "Leonida Carrier Warehouse",
       "category": "bunkers",
@@ -5557,7 +5557,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091983",
+      "id": "loc_293",
       "title_ar": "وكر عمليات إجرامية (Criminal Hideout): Backroom Weed Front",
       "title_en": "Backroom Weed Front",
       "category": "bunkers",
@@ -5576,7 +5576,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091984",
+      "id": "loc_294",
       "title_ar": "وكر عمليات إجرامية (Criminal Hideout): Gas Station Meth Front",
       "title_en": "Gas Station Meth Front",
       "category": "bunkers",
@@ -5595,7 +5595,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/22/weapons-1795386249924.jpg"
     },
     {
-      "id": "ign_1091850",
+      "id": "loc_295",
       "title_ar": "قائمة موسيقية فريدة (Unique Playlist): The Sniper of La Perle 1",
       "title_en": "The Sniper of La Perle 1",
       "category": "collectibles",
@@ -5614,7 +5614,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091851",
+      "id": "loc_296",
       "title_ar": "قائمة موسيقية فريدة (Unique Playlist): The Sniper of La Perle 2",
       "title_en": "The Sniper of La Perle 2",
       "category": "collectibles",
@@ -5633,7 +5633,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091852",
+      "id": "loc_297",
       "title_ar": "قائمة موسيقية فريدة (Unique Playlist): The Sniper of La Perle 3",
       "title_en": "The Sniper of La Perle 3",
       "category": "collectibles",
@@ -5652,7 +5652,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091853",
+      "id": "loc_298",
       "title_ar": "قائمة موسيقية فريدة (Unique Playlist): The Sniper of La Perle 4",
       "title_en": "The Sniper of La Perle 4",
       "category": "collectibles",
@@ -5671,7 +5671,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091854",
+      "id": "loc_299",
       "title_ar": "قائمة موسيقية فريدة (Unique Playlist): The Vault Radio 1",
       "title_en": "The Vault Radio 1",
       "category": "collectibles",
@@ -5690,7 +5690,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091857",
+      "id": "loc_300",
       "title_ar": "جدارية 1010 الفنية (1010 Mural): Loophole Architecture",
       "title_en": "Loophole Architecture",
       "category": "collectibles",
@@ -5709,7 +5709,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091858",
+      "id": "loc_301",
       "title_ar": "جدارية 1010 الفنية (1010 Mural): Extraction Service",
       "title_en": "Extraction Service",
       "category": "collectibles",
@@ -5728,7 +5728,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091859",
+      "id": "loc_302",
       "title_ar": "جدارية 1010 الفنية (1010 Mural): Compliance Theater",
       "title_en": "Compliance Theater",
       "category": "collectibles",
@@ -5747,7 +5747,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091860",
+      "id": "loc_303",
       "title_ar": "جدارية 1010 الفنية (1010 Mural): Privatized Pains Socialized Gains",
       "title_en": "Privatized Pains Socialized Gains",
       "category": "collectibles",
@@ -5766,7 +5766,7 @@
       "image_url": "https://assets-prd.ignimgs.com/2026/11/23/mattress-72-tequesta-1911-1795450997733.png"
     },
     {
-      "id": "ign_1091861",
+      "id": "loc_304",
       "title_ar": "جدارية 1010 الفنية (1010 Mural): You Signed the Terms & Conditions",
       "title_en": "You Signed the Terms & Conditions",
       "category": "collectibles",
@@ -7977,5 +7977,7 @@
       "spoken_reply_ar": "رفع اللاعب في السماء للقفز المظلي الحر فوق ليونيدا",
       "is_pro_only": false
     }
-  ]
+  ],
+  "map_radar_url": "https://raw.githubusercontent.com/developermof-del/leonida-map-data/main/v1/LeonidaRadarMap.jpg",
+  "map_poster_url": "https://raw.githubusercontent.com/developermof-del/leonida-map-data/main/v1/LeonidaPosterMap.jpg"
 }
